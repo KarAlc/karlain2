@@ -1,0 +1,8 @@
+<html>
+
+<body bgcolor="black" text="white">
+<img src="img/xm.jpg" width=60%>
+<br>
+<br>
+La saga cinematográfica de los X-Men está constituida por trece películas hasta el momento. Todas ellas están basadas en el cómic de superhéroes X-Men, de la editorial estadounidense Marvel Comics producida por 20th Century Fox</body>
+</html>
